@@ -13,6 +13,7 @@ A Python-based version of the addictive puzzle game **2048**, built using Tkinte
 ✅ Random tile generation  
 ✅ Score tracking  
 ✅ Win & Game Over detection 
+        ---
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x  
 - **GUI:** Tkinter 
@@ -27,4 +28,4 @@ A Python-based version of the addictive puzzle game **2048**, built using Tkinte
     ---
 ## 📬 Contact
 GitHub: Sarayugoud
----
+     ---
