@@ -9,19 +9,15 @@ A Python-based version of the addictive puzzle game **2048**, built using Tkinte
 - Your goal: **Reach the 2048 tile**.
 ---
 ## 🚀 Features
----
 ✅ Clean GUI with Tkinter  
 ✅ Random tile generation  
 ✅ Score tracking  
 ✅ Win & Game Over detection 
----
 ## 🛠️ Tech Stack
-
 - **Language:** Python 3.x  
 - **GUI:** Tkinter 
 
 ## ▶️ Run the Game
----
 
 1. Ensure Python is installed:
    ```bash
@@ -29,6 +25,6 @@ A Python-based version of the addictive puzzle game **2048**, built using Tkinte
 2.Run the game file:
     python team7_2048.py
     
-##📬 Contact
+## 📬 Contact
 GitHub: Sarayugoud
 
