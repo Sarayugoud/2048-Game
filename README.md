@@ -16,7 +16,7 @@ A Python-based version of the addictive puzzle game **2048**, built using Tkinte
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x  
 - **GUI:** Tkinter 
-
+---
 ## ▶️ Run the Game
 
 1. Ensure Python is installed:
@@ -24,7 +24,7 @@ A Python-based version of the addictive puzzle game **2048**, built using Tkinte
    python --version
 2.Run the game file:
     python team7_2048.py
-    
+    ---
 ## 📬 Contact
 GitHub: Sarayugoud
-
+---
